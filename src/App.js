@@ -53,8 +53,8 @@ export default function NexlevelLanding() {
           </h2>
           <p className="text-zinc-300 mb-6 leading-relaxed">
             At Nexlevel, we deliver sharp, clean cuts with unmatched precision.
-            Whether you want a fresh fade, beard trim, or full grooming session
-            — we make sure you walk out looking and feeling your best.
+            Whether you want a fresh fade, beard trim, or full grooming session,
+            we make sure you walk out looking and feeling your best.
           </p>
           <ul className="text-zinc-300 space-y-2 text-lg">
             <li>• Skilled barbers</li>

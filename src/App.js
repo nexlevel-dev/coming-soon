@@ -116,7 +116,7 @@ export default function NexlevelLanding() {
         </a>
 
         <p className="text-zinc-600 text-sm mt-6">
-          © {new Date().getFullYear()} Nexlevel Barbershop. All rights reserved.
+          © 2020 Nexlevel Barbershop. All rights reserved.
         </p>
       </footer>
     </div>

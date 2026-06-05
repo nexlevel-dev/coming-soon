@@ -79,12 +79,12 @@ export default function NexlevelLanding() {
         <h2 className="text-3xl font-bold mb-6">Hours of Operation</h2>
         <div className="grid sm:grid-cols-2 gap-6 text-lg text-zinc-300">
           <div className="bg-zinc-900 p-6 rounded-2xl border border-zinc-700">
-            <p className="font-semibold text-white mb-2">Monday - Saturday</p>
-            <p>9 AM - 8 PM</p>
+            <p className="font-semibold text-white mb-2">Sunday & Monday</p>
+            <p>12 PM - 6 PM</p>
           </div>
           <div className="bg-zinc-900 p-6 rounded-2xl border border-zinc-700">
-            <p className="font-semibold text-white mb-2">Sunday</p>
-            <p>12 PM - 6 PM</p>
+            <p className="font-semibold text-white mb-2">Tuesday - Saturday</p>
+            <p>9 AM - 8 PM</p>
           </div>
         </div>
       </section>
